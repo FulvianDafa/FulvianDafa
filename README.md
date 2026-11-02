@@ -28,13 +28,17 @@ My work has given me opportunities to collaborate across the software lifecycle:
 
 ## Selected projects
 
+Here are examples of the systems I have helped build, test, and deliver.
+
 | Project | What it demonstrates | My involvement |
 | --- | --- | --- |
+| **Lab Tracking SLOG (LIMS)** 🔒 | Internal laboratory document tracking and management system, developed through stakeholder requirements and iterative testing. | **Project Manager & QA** — requirements and system analysis, team coordination, manual testing, and Playwright test automation. |
+| **Digital Archive System (Web Arsip)** 🔒 | Laravel-based internal system for document management and digital archiving. | **Full-Stack Developer** — requirements, UI design, frontend and backend development, and deployment. |
 | **[Self-Healing Selenium Research](https://github.com/FulvianDafa/self-healing-testing-selenium)** | A similarity-matching approach for recovering from changed web-element locators in automated tests. | Research, implementation, and evaluation of a Selenium-based self-healing mechanism. |
-| **[Sapi Berkah Amanah](https://github.com/FulvianDafa/sapi-berkah-amanah)** | A web catalog for qurban animals, with WhatsApp booking, reseller registration, and an admin workflow. | Project management and frontend development; collaboration on product and implementation planning. |
-| **[Personal Portfolio](https://github.com/FulvianDafa/fulvian-portfolio)** | A web-based collection of project case studies, technical work, and professional experience. | Portfolio project showcasing software development, testing, and project contributions. |
+| **[Sapi Berkah Amanah](https://github.com/FulvianDafa/sapi-berkah-amanah)** | A web catalog for qurban animals, with WhatsApp booking, reseller registration, and an admin workflow. | **Project Manager & Frontend Developer** — Vue.js frontend implementation and team coordination. |
+| **[Personal Portfolio](https://github.com/FulvianDafa/fulvian-portfolio)** | A web-based collection of project case studies, technical work, and professional experience. | Personal website development and project documentation. |
 
-> Some of my work involves internal or client projects, so their source code is not publicly available. My public repositories and portfolio provide a view of the work I can share.
+🔒 *Internal/client work: repositories are private. Descriptions here are limited to high-level, shareable project scope and my contributions; proprietary code and internal documents are not public.*
 
 ## Technologies & tools
 
