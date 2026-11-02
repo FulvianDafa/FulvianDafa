@@ -9,6 +9,7 @@
 I enjoy turning ideas into working software — from understanding requirements and building features to testing systems and improving their reliability.
 
 <p>
+  <a href="https://www.linkedin.com/in/mochammadfulviandafapranaja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="https://github.com/FulvianDafa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="mailto:fulviandafa23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
   <a href="https://github.com/FulvianDafa/fulvian-portfolio"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio repository" /></a>
@@ -72,8 +73,12 @@ I value clear communication, maintainable solutions, and software that works for
 
 ### Let's connect
 
-<a href="https://github.com/FulvianDafa"><img src="https://img.shields.io/badge/GitHub-FulvianDafa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:fulviandafa23@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/mochammadfulviandafapranaja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/fulviandafa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @fulviandafa" /></a>
+  <a href="https://www.tiktok.com/@fulviandafa"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @fulviandafa" /></a>
+  <a href="mailto:fulviandafa23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 **Open to learning, collaboration, and opportunities across the tech industry.**
 
