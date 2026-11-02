@@ -8,8 +8,11 @@
 
 I enjoy turning ideas into working software — from understanding requirements and building features to testing systems and improving their reliability.
 
-[![GitHub](https://img.shields.io/badge/GitHub-FulvianDafa-181717?logo=github&logoColor=white)](https://github.com/FulvianDafa)
-[![Portfolio repository](https://img.shields.io/badge/Portfolio-Explore_my_work-0F766E?logo=github&logoColor=white)](https://github.com/FulvianDafa/fulvian-portfolio)
+<p>
+  <a href="https://github.com/FulvianDafa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="mailto:fulviandafa23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" /></a>
+  <a href="https://github.com/FulvianDafa/fulvian-portfolio"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio repository" /></a>
+</p>
 
 </div>
 
@@ -40,14 +43,22 @@ Here are examples of the systems I have helped build, test, and deliver.
 
 🔒 *Internal/client work: repositories are private. Descriptions here are limited to high-level, shareable project scope and my contributions; proprietary code and internal documents are not public.*
 
-## Technologies & tools
+## Tech stack & tools
 
-**Languages:** JavaScript · TypeScript · Java · PHP · SQL  
-**Web development:** React · Next.js · Vue · Laravel · NestJS  
-**Quality & testing:** Selenium WebDriver · Manual Testing · Test Automation  
-**Data & workflow:** PostgreSQL · MySQL · Git · GitHub · Docker
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,php,react,nextjs,vue,laravel,nestjs,postgres,mysql,docker,git,github&perline=7" alt="JavaScript, TypeScript, Java, PHP, React, Next.js, Vue, Laravel, NestJS, PostgreSQL, MySQL, Docker, Git, GitHub" />
+</p>
 
-*Tools listed here reflect technologies used in my projects and learning; experience depth varies by tool.*
+**Quality engineering & testing**
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium WebDriver" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Manual_Testing-475569?style=flat-square" alt="Manual testing" />
+  <img src="https://img.shields.io/badge/Test_Automation-475569?style=flat-square" alt="Test automation" />
+</p>
+
+*These are technologies and practices used across my projects, research, and learning. My experience level varies by tool.*
 
 ## How I approach software
 
@@ -58,6 +69,11 @@ I value clear communication, maintainable solutions, and software that works for
 ---
 
 <div align="center">
+
+### Let's connect
+
+<a href="https://github.com/FulvianDafa"><img src="https://img.shields.io/badge/GitHub-FulvianDafa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:fulviandafa23@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 **Open to learning, collaboration, and opportunities across the tech industry.**
 
